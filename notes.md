@@ -46,3 +46,6 @@ Bayesian inference
 
 Bayesian inference -> a method for updating our beliefs about the world based on evidence that we observe
 
+random search is better than grid search because in random search you are collecting more information about your data. in your grid search you cover a larger area, but you duplicate some experiments so you get less data than in random search. 
+
+exploitaion vs exploration. you want to increase the variance (exploration) but you also want to find the minimum (exploitation). you combine both of them. 
